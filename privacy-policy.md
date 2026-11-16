@@ -2,7 +2,7 @@
 
 **Last updated:** 16 November 2026
 
-Reliable Download Manager is developed by Prof. Dattaraj S. Vidyasagar & Prof. Yash D. Vidyasagar, for Vidyasagar Robotics Academy. This policy explains what the app does with information. In short: **it does not collect, store or send any personal information about you.**
+Reliable Download Manager is developed by Prof. Dattaraj S. Vidyasagar & Prof. Yash D. Vidyasagar, for Vidyasagar Academy. This policy explains what the app does with information. In short: **it does not collect, store or send any personal information about you.**
 
 ## What the app does not do
 
@@ -46,6 +46,6 @@ If this policy changes, the new version will be published at this address with a
 
 ## Contact
 
-Vidyasagar Robotics Academy
+Vidyasagar Academy
 Website: [https://vsa.edu.in/software/](https://vsa.edu.in/software/)
 Email: [softinquiry@vsa.edu.in](mailto:softinquiry@vsa.edu.in)
