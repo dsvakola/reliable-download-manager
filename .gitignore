@@ -1,0 +1,15 @@
+﻿# Private project notes (not published)
+/readme.md
+
+# Build output
+Release/
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
