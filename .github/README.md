@@ -24,3 +24,8 @@ Website: https://vsa.edu.in/software/ · Email: softinquiry@vsa.edu.in
 ## Licence
 
 Free software under the GNU General Public License v3.0. See [LICENSE](../LICENSE).
+
+## Download from Microsoft Store
+<a href="https://apps.microsoft.com/detail/9nqx7f6zjt1w?referrer=appbadge&cid=RDM&mode=full" target="_blank" rel="noopener noreferrer">
+<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
